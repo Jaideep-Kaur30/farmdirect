@@ -27,3 +27,9 @@ yarn-error.log*
 # editor
 .vscode
 .idea
+
+# python backend
+__pycache__/
+*.pyc
+backend/venv
+backend/*.db
